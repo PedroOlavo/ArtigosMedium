@@ -10,4 +10,5 @@
 ## Artigo: Gráficos simples mas úteis para análise de dados: https://bityli.com/xHuK7
 ## Gráficos simples, mas úteis para análise de dados: https://bityli.com/LtGoP
 
+## Artigo: Tutorial de como melhorar seus gráficos: https://bityli.com/zPO4h
 ## Tutorial: Como melhorar seus gráficos: https://bityli.com/Z15QX
