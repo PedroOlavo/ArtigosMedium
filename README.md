@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="medium.png" >
+</p>
+
 # ArtigosMedium
 ## Respositório destinado a salvar os arquivos que surgem de artigos publicados no Medium.
 
