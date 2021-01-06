@@ -12,3 +12,7 @@
 
 ## Artigo: Tutorial de como melhorar seus gráficos: https://bityli.com/zPO4h
 ## Tutorial: Como melhorar seus gráficos: https://bityli.com/Z15QX
+
+
+## Artigo: Breve análise dos incêndios nas florestas brasileiras : https://bityli.com/x3yex
+## Análise dos incêndios nas florestas brasileiras entre 1998 e 2017: https://bityli.com/rwgre
