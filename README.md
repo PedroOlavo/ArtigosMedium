@@ -16,3 +16,6 @@
 
 ## Artigo: Breve análise dos incêndios nas florestas brasileiras : https://bityli.com/x3yex
 ## Análise dos incêndios nas florestas brasileiras entre 1998 e 2017: https://bityli.com/rwgre
+
+## Artigo: Energia renovável no Brasil: um olhar regional : https://bityli.com/aXA9s
+## Energia renovável no Brasil: https://bityli.com/7slQN
