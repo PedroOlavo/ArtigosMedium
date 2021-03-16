@@ -19,3 +19,6 @@
 
 ## Artigo: Energia renovável no Brasil: um olhar regional : https://bityli.com/aXA9s
 ## Energia renovável no Brasil: https://bityli.com/7slQN
+
+## Artigo: A violência no Rio de Janeiro, um recorte entre 1991 e 2019: https://bityli.com/eIcNS
+## Análise do histórico de violência no Rio de Janeiro: https://bityli.com/CHsa7
